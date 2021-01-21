@@ -1,0 +1,3 @@
+rake "db:db 1"
+rake "dbb:sd"rake "db:db 1"
+rake "dbb:sd"
